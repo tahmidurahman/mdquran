@@ -13,6 +13,5 @@ The surahs that have notes are:
 - ٤. النساء
 - ١٠. يونس
 - ١٨. الكهف
-- ٤٩. الحجرات
 - Surahs 68-78
 - ٨١. التكوير
