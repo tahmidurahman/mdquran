@@ -10,8 +10,5 @@ Some of the surahs do already have notes on them. I may try to remove them and I
 The surahs that have notes are:
 
 - ٣. آل عمران
-- ٤. النساء
 - ١٠. يونس
-- ١٨. الكهف
 - Surahs 68-78
-- ٨١. التكوير
