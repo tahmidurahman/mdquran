@@ -7,6 +7,10 @@ It's been designed so that each surah has subheadings for the ayaat, and the sub
 
 Some of the surahs do already have notes on them. I may try to remove them and I'll update this README if I do insha'Allah. Also some of the surahs have additional translations. This is all just because some of these are converted and edited Word documents that I'd started before shifting to markdown.
 
+The missing surahs are:
+
+- Surahs 51-67
+
 The surahs that have notes are:
 
 - Surahs 69-78
