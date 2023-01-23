@@ -9,5 +9,4 @@ Some of the surahs do already have notes on them. I may try to remove them and I
 
 The surahs that have notes are:
 
-- ١٠. يونس
 - Surahs 68-78
