@@ -13,4 +13,4 @@ The missing surahs are:
 
 The surahs that have notes are:
 
-- Surahs 69-78
+- Surahs 72-78
