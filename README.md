@@ -9,4 +9,4 @@ Some of the surahs do already have notes on them. I may try to remove them and I
 
 The surahs that have notes are:
 
-- Surahs 72-78
+- Surahs 74-78
